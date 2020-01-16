@@ -103,7 +103,7 @@ IO Programming
 * [probability of 0](./src/126-probability-of-0.hs) : Generate a list of 0 and 1, calculate the probability of 0.
 * [probability of at least one 0](./src/127-probability-of-atleast-one-0.hs) : Generate a list of (x, y), where x and y is 0 or 1, calculate the probability of at least one element is 0.
 
-practice: 
+Practice: 
 
 * [Collatz](./src/67-Collatz.hs) : Verify Collatz guesses.
 * [credit card](./src/68-credit-card.hs) : Determine if a credit card is legal.
@@ -112,3 +112,4 @@ practice:
 * [get all word](./src/71-get-all-word.hs) : Get all the words in a text.
 
 * [freque](./src/60-freque.hs) : Get the frequency of each word in the string and sort them.
+
